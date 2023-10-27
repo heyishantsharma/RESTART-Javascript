@@ -1,3 +1,3 @@
 console.log("Ishant");
-console.log("Hello Everyone")
+console.log("Jai Shri Ram")
 console.log("Hello Shivam")
