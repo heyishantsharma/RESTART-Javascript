@@ -28,6 +28,40 @@ let aNumber = 45
 
 let convertedNumber = String(aNumber)
 
-console.log(convertedNumber);
-console.log(typeof convertedNumber);
+// console.log(convertedNumber);
+// console.log(typeof convertedNumber);
+
+// *********************** Operations *********************
+
+let value = 10;
+let negValue = - value
+// console.log(negValue);
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2%3);
+
+let str1 = "Hello";
+let str2 = " Ishan"
+let combineStr = str1 + str2 ;
+
+// console.log(combineStr);
+
+// console.log("10" + 2);
+// console.log(10 + "2");
+// console.log("10" + 2 + 2);
+// console.log(2 + 2 + "10");
+
+console.log(true);
+console.log(+true);
+// console.log(true+);     not possible like this
+
+console.log(+ "");
+
+
+
 
